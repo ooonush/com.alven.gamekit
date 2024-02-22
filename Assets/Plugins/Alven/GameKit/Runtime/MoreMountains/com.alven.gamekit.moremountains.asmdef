@@ -1,0 +1,24 @@
+{
+    "name": "com.alven.gamekit.moremountains",
+    "rootNamespace": "Alven.GameKit.MoreMountains",
+    "references": [
+        "GUID:8087d854c1f812e4b9a74437dfc524e0",
+        "GUID:68765d262e2128e4ab49c983f3411946",
+        "GUID:72d1fea872bd7a449bf3818f2b0a6708"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.esotericsoftware.spine.spine-unity",
+            "expression": "",
+            "define": "GAMEKIT_MM_FEEDBACKS_SPINE_INTEGRATION"
+        }
+    ],
+    "noEngineReferences": false
+}

@@ -1,0 +1,15 @@
+{
+  "name": "com.alven.gamekit",
+  "version": "1.0.0-pre.1",
+  "displayName": "Alven`s GameKit",
+  "description": "",
+  "unity": "2022.3",
+  "documentationUrl": "https://github.com/ooonush/com.alven.gamekit",
+  "licensesUrl": "https://github.com/ooonush/com.alven.gamekit/blob/main/LICENSE",
+  "license": "MIT LICENSE",
+  "keywords": [],
+  "author": {
+    "name": "Alven",
+    "url": "https://github.com/ooonush"
+  }
+}
