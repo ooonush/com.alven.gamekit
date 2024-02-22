@@ -1,0 +1,17 @@
+# Ignore everything:
+/Assets/*
+!/Assets/Plugins/Alven/GameKit
+!/Assets/Plugins/Alven/GameKit.meta
+!.gitignore
+
+/Library/
+/Packages/
+/ProjectSettings/
+/Temp/
+/Builds/
+/UserSettings/
+/Obj/
+/Logs/
+*.csproj
+*.vs/
+*.vsconfig
